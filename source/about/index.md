@@ -12,6 +12,7 @@ CSDN: <http://blog.csdn.net/hatlonely>
 博客园: <http://www.cnblogs.com/hatlonely>
 简书: <https://www.jianshu.com/u/5f7ab85a60b2>
 segmentfault: <https://segmentfault.com/u/hatlonely>
+微博: <https://weibo.com/hatlonely>
 
 ### 联系我
 
