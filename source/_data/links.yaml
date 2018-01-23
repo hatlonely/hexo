@@ -1,4 +1,16 @@
 hatlonely:
     link: http://hatlonely.github.io/
     avatar: http://hatlonely.github.io/img/hatlonely4.png
-    descr: "hatlonely的博客"
+    descr: Try new, go far, see more
+viosey:
+    link: https://blog.viosey.com/
+    avatar: https://cdn.viosey.com/img/avatar/blog_avatar.png
+    descr: "深自缄默，如云漂泊"
+material:
+    link: https://material.io/
+    avatar: https://material.io/static/images/hub/favicons/hub-192x192.png
+    descr: material design
+formtypemaker:
+    link: https://formtypemaker.appspot.com/
+    avatar: https://formtypemaker.appspot.com/images/chrome-touch-icon-192x192.png
+    descr: material letters generator
