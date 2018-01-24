@@ -1,5 +1,6 @@
 themes/
 source/_posts/
+source/_drafts/
 node_modules/
 db.json
 .deploy_git/
