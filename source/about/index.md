@@ -2,6 +2,7 @@
 title: 关于我
 date:
 comments: false
+thumbnail: /img/blog/city1.jpg
 ---
 
 ### 寻找我
