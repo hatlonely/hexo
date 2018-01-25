@@ -13,6 +13,7 @@ CSDN: <http://blog.csdn.net/hatlonely>
 博客园: <http://www.cnblogs.com/hatlonely>
 简书: <https://www.jianshu.com/u/5f7ab85a60b2>
 segmentfault: <https://segmentfault.com/u/hatlonely>
+GoCN: <https://gocn.io/people/hatlonely>
 微博: <https://weibo.com/hatlonely>
 facebook: <https://www.facebook.com/profile.php?id=100002314767374>
 twitter: <https://twitter.com/hatlonely>
