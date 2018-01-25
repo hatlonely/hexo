@@ -9,8 +9,24 @@ viosey:
 material:
     link: https://material.io/
     avatar: /img/links/material.png
-    descr: material design
+    descr: A unified system that combines theory, resources, and tools for crafting digital experiences.
 formtypemaker:
     link: https://formtypemaker.appspot.com/
     avatar: /img/links/formtypemaker.png
-    descr: material letters generator
+    descr: Material letters generator
+react:
+    link: https://reactjs.org/
+    avatar: /img/links/react.ico
+    descr: A JavaScript library for building user interfaces
+material-ui:
+    link: http://www.material-ui.com/
+    avatar: /img/links/material-ui.ico
+    descr: React components that implement Google's Material Design
+periodic-table:
+    link: http://www.rsc.org/periodic-table
+    avatar: /img/links/periodic-table.ico
+    descr: Royal Society of Chemistry
+goreportcard:
+    link: https://goreportcard.com/
+    avatar: /img/links/goreportcard.ico
+    descr: Go Report Card
