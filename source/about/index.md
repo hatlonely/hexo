@@ -11,7 +11,8 @@ thumbnail: /img/blog/city1.jpg
 
 ### 寻找我
 
-gitblog: <http://hatlonely.github.io>
+github.io: <http://hatlonely.github.io/>
+coding.me: <http://hatlonely.coding.me/>
 github: <https://github.com/hatlonely>
 CSDN: <http://blog.csdn.net/hatlonely>
 博客园: <http://www.cnblogs.com/hatlonely>
