@@ -80,6 +80,9 @@ theme: material
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repository: git@github.com:hatlonely/hatlonely.github.com.git
+  branch: master
+- type: git
+  repository: git@git.coding.net:hatlonely/hatlonely.git
   branch: master
