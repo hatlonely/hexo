@@ -5,10 +5,6 @@ comments: false
 thumbnail: /img/thumbnail/city1.jpg
 ---
 
-### 自我介绍
-
-我，重度音乐依赖症患者，重度拖延症患者，轻度失眠症患者，轻度强迫症患者，选择困难症患者，手机依赖症患者，外貌协会资深会员，懒癌晚期，果粉，杰迷，&程序员，对，我有病，你有药吗？
-
 ### 寻找我
 
 github.io: <http://hatlonely.github.io/>
